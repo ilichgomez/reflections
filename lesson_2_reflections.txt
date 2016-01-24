@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+you mark the directory for git, to identify it as a new repository, in order
+to git start creating a following of the changes
